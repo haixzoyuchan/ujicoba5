@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('coba');
 });
+Route::get('/submit', function () {
+    return view('welcome');
+});

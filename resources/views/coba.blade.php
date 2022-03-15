@@ -11,7 +11,7 @@
     <div class="container">
         <h2>Selamat Datang</h2>
         <form action="">
-        <input type="email" placeholder="Destinasi Tujuan" required>
+        <input type="text" placeholder="Konfirmasi Tujuan" required>
         <input type="text" placeholder="Transportasi" required>
         <input type="date" placeholder="Tanggal keberangkatan" required>
         <input type="date" placeholder="Tanggal kembali" required>
